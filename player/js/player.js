@@ -106,3 +106,5 @@ function onKeyPress(event){
   if (event.keyCode == 32)
   audios[0].play()
 }
+
+//вот ещё что-то сделали с кодом
